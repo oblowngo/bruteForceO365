@@ -2,7 +2,7 @@
 Brute force usernames fron another tenant
 </br><pre>
 Explain:
-	&emsp;&emsp;&emsp;&emsp;Brute force o365 tenant accounts. Similar to vrfy command
+	&emsp;&emsp;&emsp;&emsp;Brute force o365 tenant accounts (username). Similar to vrfy command
 Prerequisites:
 	&emsp;&emsp;&emsp;&emsp;Own a Tenant
 	&emsp;&emsp;&emsp;&emsp;Cross tenant policy block 
